@@ -1,4 +1,4 @@
-
+<img width="1897" height="969" alt="menu" src="https://github.com/user-attachments/assets/b0899688-54d9-4289-a0a4-3c0c033d0fe1" />
 # 🍽️ Mamta Bhojnalaya - Restaurant Web Application
 
 A full-stack restaurant management web application built for **Mamta Bhojnalaya** as part of an internship with Info Bharat Interns.
@@ -154,8 +154,7 @@ npm run dev
 
 
 ### Menu Page
-![Menu Page] (menu.png)
-
+![Menu Page](https://raw.githubusercontent.com/Ayush8983/Mamta-Bhojnalaya/8ff2eff4996e961fb609587c2bd0569f7c19963d/menu.png)
 
 ### Admin Dashboard
 
