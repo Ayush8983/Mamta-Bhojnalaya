@@ -151,7 +151,7 @@ npm run dev
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page]()
+![Landing Page](https://github.com/Ayush8983/Mamta-Bhojnalaya/blob/f0ce6eb395aa83c3d485c74e58ea2f46fa28ef49/landing.jpeg)
 
 ### Menu Page
 ![Menu Page](https://raw.githubusercontent.com/Ayush8983/Mamta-Bhojnalaya/8ff2eff4996e961fb609587c2bd0569f7c19963d/menu.png)
