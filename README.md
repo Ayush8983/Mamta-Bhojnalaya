@@ -97,8 +97,13 @@ npm install
 - Create a `.env` file in the `backend/` folder:
 
 ```
-PORT=5000
-DATABASE_URL=postgresql://youruser:yourpassword@localhost:5432/mamta_bhojnalaya
+ PORT=5000
+    DB_USER=your_db_user
+    DB_HOST=your_db_host
+    DB_NAME=your_db_name
+    DB_PASSWORD=your_db_password
+    DB_PORT=5432
+    JWT_SECRET=your_jwt_secret
 ```
 
 - Run schema manually or use SQL files to create `menu`, `orders`, `order_items`, and `admins` tables.
@@ -109,14 +114,14 @@ DATABASE_URL=postgresql://youruser:yourpassword@localhost:5432/mamta_bhojnalaya
 
 ```bash
 cd backend
-npm run dev
+npm start
 ```
 
 **Frontend:**
 
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 
 ---
@@ -161,7 +166,7 @@ npm start
 
 ## 🙌 Acknowledgements
 
-- Mamta Bhojnalaya team for project brief and support
-- Info Bharat Interns for the internship opportunity
+This project was developed as part of an internship with **Info Bharat Interns**.
+
 
 ---
