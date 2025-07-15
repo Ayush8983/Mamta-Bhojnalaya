@@ -154,7 +154,7 @@ npm run dev
 
 
 ### Menu Page
-![Menu Page] (https://github.com/Ayush8983/Mamta-Bhojnalaya/blob/8ff2eff4996e961fb609587c2bd0569f7c19963d/menu.png)
+![Menu Page] (menu.png)
 
 
 ### Admin Dashboard
