@@ -160,7 +160,7 @@ npm run dev
 ![Order Page](screenshots/order.png)
 
 ### Admin Dashboard
-![Admin Dashboard]()
+![Admin Dashboard](https://github.com/Ayush8983/Mamta-Bhojnalaya/blob/6c66ab53499212110b8738519c0fd9b85499b86e/Dashboard.png)
 
 ---
 
