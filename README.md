@@ -151,15 +151,15 @@ npm run dev
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing](screenshots/landing.png)
+
 
 ### Menu Page
-![Menu](screenshots/menu.png)
+
 
 ### Admin Dashboard
-![Dashboard](screenshots/admin-dashboard.png)
 
-> Add screenshots to `frontend/public/screenshots` folder or similar
+
+
 
 ---
 
