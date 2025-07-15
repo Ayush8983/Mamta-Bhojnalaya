@@ -143,7 +143,7 @@ npm run dev
 
 > Replace this with your real admin if you have registration
 
-- **Email**: `admin@example.com`
+- **Username**: `admin`
 - **Password**: `admin123`
 
 ---
@@ -151,13 +151,16 @@ npm run dev
 ## 📸 Screenshots
 
 ### Landing Page
-
+![Landing Page](screenshots/landing.png)
 
 ### Menu Page
 ![Menu Page](https://raw.githubusercontent.com/Ayush8983/Mamta-Bhojnalaya/8ff2eff4996e961fb609587c2bd0569f7c19963d/menu.png)
 
-### Admin Dashboard
+### 🛒 Order Page
+![Order Page](screenshots/order.png)
 
+### Admin Dashboard
+![Admin Dashboard]()
 
 ---
 
